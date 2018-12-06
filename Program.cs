@@ -10,7 +10,9 @@ namespace GIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            int x = "Radomyr ";
+            int y = "Kniazev";
+            Console.WriteLine(x + y);
             Console.ReadKey();
         }
     }
